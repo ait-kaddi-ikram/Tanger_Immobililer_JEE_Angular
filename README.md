@@ -9,4 +9,4 @@ Cependant, les smart contrats gardent une trace de l'historique, de l'emplacemen
 détails importants d'une propriété qui seront nécessaires pour l'évaluation du titre. Ils aident à éviter la
 fraude grâce à des codes cryptés qui sont infalsifiables et sécurisés.
 
-Outils : Ethereum, Ganache, Truffle, spring boot , angular.
+Outils : Ethereum, Ganache, Truffle, spring boot, jwt, angular.
